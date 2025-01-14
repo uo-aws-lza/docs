@@ -6,9 +6,9 @@ layout: home
 > [!NOTE]
 > 🚧 This site is under construction, stay tuned for more information! 🚧
 
-# University of Oregon Public Cloud Wiki
+# University of Oregon Cloud Wiki
 
-Welcome to the University of Oregon’s Public Cloud Wiki! This wiki is designed to help you get started with public cloud computing, focusing primarily on Amazon Web Services (AWS). Whether you are looking for a quick how-to on launching an EC2 instance or want to adopt Infrastructure as Code (IaC) practices using Terraform, this is the place to begin.
+Welcome to the University of Oregon’s Cloud Wiki! This wiki is designed to help you get started with public cloud computing, focusing primarily on Amazon Web Services (AWS). Whether you are looking for a quick how-to on launching an EC2 instance or want to adopt Infrastructure as Code (IaC) practices using Terraform, this is the place to begin.
 
 ## What You'll Find Here
 

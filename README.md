@@ -1,4 +1,4 @@
-# UO Public Cloud Wiki
+# UO Cloud Wiki
 
 This repository generates the documentation for the University of Oregon's Cloud Wiki.
 
