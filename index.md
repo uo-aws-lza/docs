@@ -3,33 +3,93 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+> [!NOTE]
+> 🚧 This site is under construction, stay tuned for more information! 🚧
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# University of Oregon Public Cloud Wiki
 
-More specifically, the created site:
+Welcome to the University of Oregon’s Public Cloud Wiki! This wiki is designed to help you get started with public cloud computing, focusing primarily on Amazon Web Services (AWS). Whether you are looking for a quick how-to on launching an EC2 instance or want to adopt Infrastructure as Code (IaC) practices using Terraform, this is the place to begin.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## What You'll Find Here
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- **Step-by-step guides** for AWS operations (e.g., launching an EC2 instance).
+- **Terraform examples** and best practices for automating cloud resource creation.
+- **Tips and tricks** for managing your cloud environments efficiently and securely.
+- **Reference materials** to help you navigate AWS tooling.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Who This Is For
 
-To get started with creating a site, simply:
+These guides are primarily for University of Oregon faculty and staff looking to:
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+1. Explore AWS services.
+2. Learn how to create and manage cloud resources.
+3. Implement best practices for security, cost optimization, and automation.
+4. Collaborate on cloud projects and share knowledge.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## How to Use This Site
 
-----
+Each guide follows a common structure:
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+1. **Overview**: Explains the purpose of the task and prerequisites.
+2. **Steps**: Provides a detailed, step-by-step walkthrough.
+3. **Verification**: Offers suggestions to verify that everything is set up correctly.
+4. **Cleanup (if applicable)**: Explains how to terminate or clean up resources to avoid unnecessary costs.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Feel free to jump into any section that interests you. We recommend starting with the [Getting Started with AWS](#) guide if you’re new to the platform.
+
+## Table of Contents
+
+1. **[Getting Started with AWS](#)**
+   - Getting to know your AWS account
+   - Understanding basic IAM policies
+   - Overview of core AWS services
+
+2. **[Creating an EC2 Instance](#)**
+   - Manual creation in the AWS Console
+   - Terraform configuration and deployment
+   - Tips on security groups and key pairs
+
+3. **[Storage & Databases](#)**
+   - Working with S3 buckets
+   - Basics of RDS and database management
+   - Backup and restoration practices
+
+4. **[Networking & Security](#)**
+   - VPC basics (subnets, routing, and NAT)
+   - IAM roles, users, and permissions
+   - Best practices for security and compliance
+
+5. **[Infrastructure as Code (Terraform)](#)**
+   - Installing and setting up Terraform
+   - Writing Terraform configurations
+   - Managing state and handling multiple environments
+
+6. **[Monitoring & Logging](#)**
+   - Setting up CloudWatch alarms and metrics
+   - Logging best practices with CloudTrail
+   - Using third-party monitoring tools
+
+7. **[Cost Management](#)**
+   - Setting up billing alarms
+   - Optimizing resource usage
+   - Best practices for cost governance
+
+## Contributing to the Wiki
+
+This wiki is a collaborative effort. If you spot any issues or have suggestions for additional topics:
+
+1. Make a pull request or issue on the Git repository.
+2. Provide clear details about what needs changing or adding.
+
+Your contributions help keep this knowledge base accurate and up-to-date.
+
+## Getting Help
+
+If you need more personalized assistance, reach out to:
+
+- **UO Cloud Support**: TODO(link): [Cloud Support](https://service.uoregon.edu/cloud-support)
+- **USS Support**: TODO(general uss support link) [](!todo)
+
+---
+
+_Thank you for using the University of Oregon’s Cloud Public Wiki. Happy cloud building!_
