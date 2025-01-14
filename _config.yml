@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: UO Public Cloud Wiki
+description: Helpful documentation about public cloud usage for UO customers
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://uo-aws-lza.github.io/docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  UofO: https://uoregon.edu
+  Request Support: https://service.uoregon.edu
+  Source: https://github.com/uo-aws-lza
