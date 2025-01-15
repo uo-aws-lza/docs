@@ -5,6 +5,7 @@ theme: just-the-docs
 baseurl: ""
 url: https://uo-aws-lza.github.io
 repository: uo-aws-lza/docs
+favicon_ico: "/assets/images/favicon.ico"
 
 defaults:
   - scope:
