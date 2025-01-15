@@ -4,6 +4,9 @@ parent: Getting Started
 nav_order: 3
 ---
 
+- TOC
+{:toc}
+
 # Overview of Core AWS Services
 
 AWS offers a wide variety of services that power everything from simple web applications to complex, large-scale data processing. In this guide, we’ll introduce you to some of the most commonly used “core” AWS services that you’ll likely work with at the University of Oregon. Since your account grants you **AdministratorAccess**, you’ll be able to explore these services in depth.
@@ -19,7 +22,7 @@ AWS offers a wide variety of services that power everything from simple web appl
 
 ---
 
-## Step 1: Amazon EC2 (Elastic Compute Cloud)
+## Amazon EC2 (Elastic Compute Cloud)
 
 **Purpose**: Launch virtual servers (“instances”) in the cloud.
 
@@ -38,7 +41,7 @@ AWS offers a wide variety of services that power everything from simple web appl
 
 ---
 
-## Step 2: Amazon S3 (Simple Storage Service)
+## Amazon S3 (Simple Storage Service)
 
 **Purpose**: Store objects and files (e.g., images, documents, backups) in a highly scalable, durable, and secure way.
 
@@ -58,7 +61,7 @@ AWS offers a wide variety of services that power everything from simple web appl
 
 ---
 
-## Step 3: Amazon RDS (Relational Database Service)
+## Amazon RDS (Relational Database Service)
 
 **Purpose**: Easily set up, operate, and scale relational databases in the cloud.
 
@@ -77,7 +80,7 @@ AWS offers a wide variety of services that power everything from simple web appl
 
 ---
 
-## Step 4: AWS Lambda
+## AWS Lambda
 
 **Purpose**: Run your code without provisioning or managing servers (Serverless Computing).
 
@@ -96,7 +99,7 @@ AWS offers a wide variety of services that power everything from simple web appl
 
 ---
 
-## Step 5: AWS Identity and Access Management (IAM)
+## AWS Identity and Access Management (IAM)
 
 Although we covered IAM policies in detail, here’s a quick overview:
 
@@ -112,7 +115,7 @@ Although we covered IAM policies in detail, here’s a quick overview:
 
 ---
 
-## Step 6: Additional Helpful Services
+## Additional Helpful Services
 
 ### Amazon VPC (Virtual Private Cloud)
 - **Purpose**: Define and manage your own virtual network in AWS, controlling IP ranges, subnets, and routing.

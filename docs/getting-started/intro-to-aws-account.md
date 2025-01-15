@@ -4,6 +4,10 @@ parent: Getting Started
 nav_order: 1
 ---
 
+- TOC
+{:toc}
+
+
 # Getting to Know Your AWS Account
 
 This guide will walk you through the basics of accessing and familiarizing yourself with your University of Oregon-provided AWS account. Since your account has already been created by the UO Cloud Team, you won’t need to set up any billing or sign-up details. Instead, you’ll focus on logging in, reviewing your permissions, and getting comfortable with the AWS Console.
@@ -19,7 +23,7 @@ This guide will walk you through the basics of accessing and familiarizing yours
   
 ---
 
-## Step 1: Log In to the AWS Console
+## Log In to the AWS Console
 
 1. **Navigate to the AWS Console**: 
    - You can log into the AWS Organization using your DuckID at the SSO link here: [awslogin.uoregon.edu](https://awslogin.uoregon.edu)
@@ -30,7 +34,7 @@ This guide will walk you through the basics of accessing and familiarizing yours
 
 ---
 
-## Step 2: Get Acquainted with the AWS Console Layout
+## Get Acquainted with the AWS Console Layout
 
 The AWS Console is organized by service. Some of the most commonly used services and features include:
 
@@ -51,7 +55,7 @@ The AWS Console is organized by service. Some of the most commonly used services
 
 ---
 
-## Step 3: Explore Key Information in Your Account
+## Explore Key Information in Your Account
 
 1. **Billing & Cost Management** (Optional):  
    - Go to **Billing and Cost Management** in the account menu.
@@ -67,7 +71,7 @@ The AWS Console is organized by service. Some of the most commonly used services
 
 ---
 
-## Step 4: Next Steps
+## Next Steps
 
 Now that you’ve explored your AWS account, you’re ready to dive deeper into specific services:
 

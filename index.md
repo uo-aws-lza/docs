@@ -1,10 +1,12 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+permalink: /
 ---
 
-> [!NOTE]
-> 🚧 This site is under construction, stay tuned for more information! 🚧
+{: .note }
+🚧 This site is under construction, stay tuned for more information! 🚧
 
 # University of Oregon Cloud Wiki
 
@@ -35,44 +37,7 @@ Each guide follows a common structure:
 3. **Verification**: Offers suggestions to verify that everything is set up correctly.
 4. **Cleanup (if applicable)**: Explains how to terminate or clean up resources to avoid unnecessary costs.
 
-Feel free to jump into any section that interests you. We recommend starting with the [Getting Started with AWS](#) guide if you’re new to the platform.
-
-## Table of Contents
-
-1. **[Getting Started with AWS](#)**
-   - Getting to know your AWS account
-   - Understanding basic IAM policies
-   - Overview of core AWS services
-
-2. **[Creating an EC2 Instance](#)**
-   - Manual creation in the AWS Console
-   - Terraform configuration and deployment
-   - Tips on security groups and key pairs
-
-3. **[Storage & Databases](#)**
-   - Working with S3 buckets
-   - Basics of RDS and database management
-   - Backup and restoration practices
-
-4. **[Networking & Security](#)**
-   - VPC basics (subnets, routing, and NAT)
-   - IAM roles, users, and permissions
-   - Best practices for security and compliance
-
-5. **[Infrastructure as Code (Terraform)](#)**
-   - Installing and setting up Terraform
-   - Writing Terraform configurations
-   - Managing state and handling multiple environments
-
-6. **[Monitoring & Logging](#)**
-   - Setting up CloudWatch alarms and metrics
-   - Logging best practices with CloudTrail
-   - Using third-party monitoring tools
-
-7. **[Cost Management](#)**
-   - Setting up billing alarms
-   - Optimizing resource usage
-   - Best practices for cost governance
+Feel free to jump into any section that interests you. We recommend starting with the [Getting Started with AWS]({{ site.baseurl }}{% link docs/getting_started/index.md %}) guide if you’re new to the platform.
 
 ## Contributing to the Wiki
 

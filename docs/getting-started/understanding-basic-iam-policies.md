@@ -4,6 +4,9 @@ parent: Getting Started
 nav_order: 2
 ---
 
+- TOC
+{:toc}
+
 # Understanding Basic IAM Policies
 
 In AWS, **Identity and Access Management (IAM)** is the service that lets you control access to AWS resources. Here at the University of Oregon, you’ll typically log into AWS via **Single Sign-On (SSO)**. After authentication, you’ll assume an IAM role that grants you specific permissions. While you may not need to create or manage policies directly, having a basic understanding of how IAM policies work will help you better navigate AWS resources and request the right access when needed.
@@ -19,7 +22,7 @@ In AWS, **Identity and Access Management (IAM)** is the service that lets you co
 
 ---
 
-## Step 1: What Are IAM Policies?
+## What Are IAM Policies?
 
 An **IAM policy** is a JSON document that defines which AWS actions are allowed or denied. Think of it as a set of rules that outline what a user (or role) can and cannot do in AWS.
 
@@ -33,7 +36,7 @@ At UO, your access is managed primarily through **Identity-based Policies** assi
 
 ---
 
-## Step 2: Roles vs. Users vs. Groups
+## Roles vs. Users vs. Groups
 
 - **Users**: In many AWS environments, individual users have unique credentials. At UO, however, you generally won’t use a dedicated AWS user login. Instead, you’ll use **SSO**.
 - **Roles**: Roles are like “permission sets” that can be assumed. You’ll typically see roles such as `AdminRole`, `PowerUserRole`, or `ReadOnlyRole`. Once you log in via SSO, you pick the appropriate role to assume.
@@ -41,7 +44,7 @@ At UO, your access is managed primarily through **Identity-based Policies** assi
 
 ---
 
-## Step 3: Viewing IAM Policies in the Console
+## Viewing IAM Policies in the Console
 
 You can inspect the policies attached to your role in the AWS Console:
 
@@ -61,7 +64,7 @@ You can inspect the policies attached to your role in the AWS Console:
 
 ---
 
-## Step 4: Common Policy Types You May Encounter
+## Common Policy Types You May Encounter
 
 1. **AdministratorAccess**  
    - Grants full access to nearly all AWS services and resources.
@@ -78,7 +81,7 @@ You can inspect the policies attached to your role in the AWS Console:
 
 ---
 
-## Step 5: Requesting Policy Changes or New Permissions
+## Requesting Policy Changes or New Permissions
 
 If you find you don’t have enough access to perform your tasks (for example, you can’t launch a certain type of resource):
 
