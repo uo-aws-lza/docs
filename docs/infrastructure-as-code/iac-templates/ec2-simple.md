@@ -1,8 +1,8 @@
 ---
-title: EC2 Simple
+title: 'EC2 - Simple'
 parent: IaC Templates
 ---
 
-# EC2 Simple
+# EC2 - Simple
 
 TODO
