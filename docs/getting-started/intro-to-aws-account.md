@@ -4,13 +4,14 @@ parent: Getting Started
 nav_order: 1
 ---
 
-- TOC
-{:toc}
 
 
 # Getting to Know Your AWS Account
 
 This guide will walk you through the basics of accessing and familiarizing yourself with your University of Oregon-provided AWS account. Since your account has already been created by the UO Cloud Team, you won’t need to set up any billing or sign-up details. Instead, you’ll focus on logging in, reviewing your permissions, and getting comfortable with the AWS Console.
+
+- TOC
+{:toc}
 
 ---
 
@@ -83,8 +84,4 @@ Now that you’ve explored your AWS account, you’re ready to dive deeper into 
 ## Troubleshooting & Support
 
 - If you can’t log in or are missing permissions, submit a Support Request at TODO(link) [Cloud Services Support](https://service.uoregon.edu/cloud-support).
-
----
-
-_You’re now familiar with your UO-provided AWS account! Continue learning with the rest of the guides to expand your cloud skill set._
 

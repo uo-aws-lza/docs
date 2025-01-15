@@ -54,7 +54,3 @@ If you need more personalized assistance, reach out to:
 
 - **UO Cloud Support**: TODO(link): [Cloud Support](https://service.uoregon.edu/cloud-support)
 - **USS Support**: TODO(general uss support link) [](!todo)
-
----
-
-_Thank you for using the University of Oregon’s Cloud Public Wiki. Happy cloud building!_

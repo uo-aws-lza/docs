@@ -4,12 +4,12 @@ parent: Getting Started
 nav_order: 3
 ---
 
-- TOC
-{:toc}
-
 # Overview of Core AWS Services
 
 AWS offers a wide variety of services that power everything from simple web applications to complex, large-scale data processing. In this guide, we’ll introduce you to some of the most commonly used “core” AWS services that you’ll likely work with at the University of Oregon. Since your account grants you **AdministratorAccess**, you’ll be able to explore these services in depth.
+
+- TOC
+{:toc}
 
 ---
 
@@ -154,8 +154,4 @@ Although we covered IAM policies in detail, here’s a quick overview:
 ## Troubleshooting & Support
 
 - Need help deciding which service to use? Submit a support request to the UO Cloud Team at TODO(link) [Cloud Services Support](https://service.uoregon.edu/cloud-support).  
-
----
-
-_You now have a high-level understanding of key AWS services at your disposal. Continue exploring them in our detailed guides to maximize the potential of your UO-provided AWS account!_
 

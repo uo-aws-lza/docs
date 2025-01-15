@@ -4,12 +4,12 @@ parent: Getting Started
 nav_order: 2
 ---
 
-- TOC
-{:toc}
-
 # Understanding Basic IAM Policies
 
 In AWS, **Identity and Access Management (IAM)** is the service that lets you control access to AWS resources. Here at the University of Oregon, you’ll typically log into AWS via **Single Sign-On (SSO)**. After authentication, you’ll assume an IAM role that grants you specific permissions. While you may not need to create or manage policies directly, having a basic understanding of how IAM policies work will help you better navigate AWS resources and request the right access when needed.
+
+- TOC
+{:toc}
 
 ---
 
@@ -108,8 +108,4 @@ If you find you don’t have enough access to perform your tasks (for example, y
 
 - **Move on to the TODO(link) [Overview of Core AWS Services](#)** to learn about popular AWS services you’ll likely use (EC2, S3, RDS, etc.).
 - If you’re ready for hands-on tasks, try TODO(link) [Creating an EC2 Instance](#) to practice applying your new IAM knowledge.
-
----
-
-_You now have a foundational understanding of how IAM policies work in a UO-managed AWS Organization. Continue exploring other guides or reach out to the Cloud Team if you need further assistance._
 
