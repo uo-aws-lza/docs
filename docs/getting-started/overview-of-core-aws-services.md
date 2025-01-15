@@ -8,9 +8,6 @@ nav_order: 3
 
 AWS offers a wide variety of services that power everything from simple web applications to complex, large-scale data processing. In this guide, we’ll introduce you to some of the most commonly used “core” AWS services that you’ll likely work with at the University of Oregon. Since your account grants you **AdministratorAccess**, you’ll be able to explore these services in depth.
 
-- TOC
-{:toc}
-
 ---
 
 ## Overview

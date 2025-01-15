@@ -8,9 +8,6 @@ nav_order: 2
 
 In AWS, **Identity and Access Management (IAM)** is the service that lets you control access to AWS resources. Here at the University of Oregon, you’ll typically log into AWS via **Single Sign-On (SSO)**. After authentication, you’ll assume an IAM role that grants you specific permissions. While you may not need to create or manage policies directly, having a basic understanding of how IAM policies work will help you better navigate AWS resources and request the right access when needed.
 
-- TOC
-{:toc}
-
 ---
 
 ## Overview
