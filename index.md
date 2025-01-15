@@ -37,7 +37,7 @@ Each guide follows a common structure:
 3. **Verification**: Offers suggestions to verify that everything is set up correctly.
 4. **Cleanup (if applicable)**: Explains how to terminate or clean up resources to avoid unnecessary costs.
 
-Feel free to jump into any section that interests you. We recommend starting with the [Getting Started with AWS]({{ site.baseurl }}{% link docs/getting_started/index.md %}) guide if you’re new to the platform.
+Feel free to jump into any section that interests you. We recommend starting with the [Getting Started with AWS](docs/getting_started/index.md) guide if you’re new to the platform.
 
 ## Contributing to the Wiki
 

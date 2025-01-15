@@ -8,4 +8,5 @@ gem "just-the-docs", "0.10.1" # pinned to the current release
 
 gem "jekyll-github-metadata"
 gem "jekyll-include-cache"
+gem "jekyll-relative-links"
 gem "jekyll-sitemap"
