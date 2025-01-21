@@ -3,7 +3,7 @@ title: Overview
 nav_order: 2
 ---
 
-# Getting Started with AWS
+# Overview of AWS
 
 When you’re first learning AWS—especially within the University of Oregon’s environment—there are a few foundational concepts that will help set you up for success:
 
