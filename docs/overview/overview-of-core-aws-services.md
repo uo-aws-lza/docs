@@ -1,6 +1,6 @@
 ---
 title: Overview of Core AWS Services
-parent: Getting Started
+parent: Overview
 nav_order: 3
 ---
 

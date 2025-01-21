@@ -1,6 +1,6 @@
 ---
 title: Understanding Basic IAM Policies
-parent: Getting Started
+parent: Overview
 nav_order: 2
 ---
 

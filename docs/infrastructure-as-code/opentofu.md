@@ -1,6 +1,6 @@
 ---
 title: OpenTofu CLI
-parent: Tools
+parent: Infrastructure-as-Code
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI
-parent: Tools
+parent: Getting Started
 nav_order: 1
 ---
 
