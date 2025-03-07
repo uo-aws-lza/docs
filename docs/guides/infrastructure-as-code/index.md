@@ -1,5 +1,6 @@
 ---
 title: Infrastructure-as-Code
+parent: Guides
 nav_order: 5
 ---
 
