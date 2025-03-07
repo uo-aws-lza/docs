@@ -17,7 +17,7 @@ long hashed output:
 
 `aws ecr get-login-password --region us-west-2 --profile PROFILE`
 
-## Create an ECR
+## Create an Private ECR
 
 ### AWS Website
 
